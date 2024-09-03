@@ -1,4 +1,4 @@
-# 🛡️ Lugares de Almacenamiento de Datos Sensibles en Active Directory
+# 🛡️ Datos Sensibles en Active Directory
 
 En un entorno de Active Directory (AD), existen varios lugares donde se almacenan contraseñas, credenciales, hashes y otros datos sensibles. A continuación, se detallan los principales componentes y sus ubicaciones:
 
